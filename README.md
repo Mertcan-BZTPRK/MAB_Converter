@@ -36,7 +36,7 @@ Projeyi kaynak kodundan derlemekle uğraşmak istemiyorsanız, doğrudan kurulab
 
 Projeyi kendi bilgisayarınızda geliştirmek istiyorsanız:
 
-1. Bu depoyu klonlayın: `git clone https://github.com/KULLANICI_ADIN/MAB_Converter.git`
+1. Bu depoyu klonlayın: `git clone https://github.com/Mertcan-BZTPRK/MAB_Converter.git`
 2. Visual Studio 2022 ile `MAB_Converter.sln` dosyasını açın.
 3. Gerekli NuGet paketlerini (YoutubeDLSharp vb.) geri yükleyin (Restore).
 4. Projeyi derleyip çalıştırın.
@@ -86,7 +86,7 @@ If you don't want to deal with compiling from source code, you can directly down
 
 If you want to build and develop the project on your own machine:
 
-1. Clone this repository: `git clone https://github.com/YOUR_USERNAME/MAB_Converter.git`
+1. Clone this repository: `git clone https://github.com/Mertcan-BZTPRK/MAB_Converter.git`
 2. Open the `MAB_Converter.sln` file with Visual Studio 2022.
 3. Restore the required NuGet packages (YoutubeDLSharp, etc.).
 4. Build and run the project.
@@ -102,3 +102,4 @@ This project is licensed under the **MIT License**. For more information, check 
 
 ---
 *Developer:* **[Mertcan Boztoprak (MAB Tech)](https://www.linkedin.com/in/mertcan-boztoprak)**
+
