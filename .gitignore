@@ -15,3 +15,5 @@ Thumbs.db
 
 !Releases/*.exe
 /README.md
+/LICENSE
+/.gitignore
