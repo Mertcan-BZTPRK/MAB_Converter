@@ -30,7 +30,7 @@ MAB Tech tarafından geliştirilen bu araç, sıfır kalite kaybı (Remux/Stream
 
 Projeyi kaynak kodundan derlemekle uğraşmak istemiyorsanız, doğrudan kurulabilir `.exe` versiyonunu indirebilirsiniz.
 
-1. **[Releases klasörüne gidin](./Releases/)** veya GitHub Releases sekmesine tıklayın.
+1. https://mabtech.me/Home/ProjectDetail/8 adresine gidin.
 2. `MAB_Converter_Setup_v1.0.exe` dosyasını indirin.
 3. Kurulumu çalıştırın (Tüm bağımlılıklar ve motorlar otomatik olarak kurulacaktır).
 4. Masaüstündeki MAB Converter ikonuna tıklayarak keyfini çıkarın!
