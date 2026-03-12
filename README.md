@@ -80,7 +80,7 @@ Developed by MAB Tech, this tool stands out with its zero quality loss (Remux/St
 
 If you don't want to deal with compiling from source code, you can directly download the installable `.exe` version.
 
-1. **[Go to the site] <a href="https://mabtech.me/Home/ProjectDetail/8" target="_blank">mabtech.me</a>
+1. **[Go to the site] <a href="https://mabtech.me/Home/ProjectDetail/9" target="_blank">mabtech.me</a>
 2. Download the `MAB_Converter_Setup_v1.0.exe` file.
 3. Run the setup (All dependencies and engines will be installed automatically).
 4. Click the MAB Converter icon on your desktop and enjoy!
