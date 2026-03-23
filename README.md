@@ -8,14 +8,17 @@
 <h1 style="color: #0CED15; margin-bottom: 5px;">⚡MAB Converter⮟</h1>
   <h3 style="color: #B0B0B0; margin-top: 0; font-weight: normal;">Ultimate Media Downloader & Converter</h3>
 </div>
-<p align="center">
-  <img src="screenshot.png" alt="MAB Converter Arayüzü" width="800">
-</p>
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Framework](https://img.shields.io/badge/Framework-WPF%20%7C%20C%23-purple.svg)
+
+<p align="center">
+  <img src="screenshot.png" alt="MAB Converter Arayüzü" width="800">
+</p>
+
+
 
 🌍 **[English Version Below](#english-version)** 🇬🇧
 
