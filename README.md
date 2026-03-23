@@ -1,7 +1,5 @@
 
 
-
-
 <div style="background: linear-gradient(145deg, #0A0A0A 0%, #0F0F0F 100%); border-radius: 20px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5); color: #EFEFE8;">
 
 <div style="padding: 35px; padding-bottom: 20px;">
@@ -13,6 +11,7 @@
 <p align="center">
   <img src="screenshot.png" alt="MAB Converter Arayüzü" width="800">
 </p>
+
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
