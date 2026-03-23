@@ -1,12 +1,46 @@
-# 🚀 MAB Converter | Ultimate Media Downloader & Converter
+
+<div style="background: linear-gradient(145deg, #0A0A0A 0%, #0F0F0F 100%); border-radius: 20px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5); color: #EFEFE8;">
+
+<div style="padding: 35px; padding-bottom: 20px;">
+
+<div align="center">
+<h1 style="color: #0CED15; margin-bottom: 5px;">⚡MAB Converter⮟</h1>
+  <h3 style="color: #B0B0B0; margin-top: 0; font-weight: normal;">Ultimate Media Downloader & Converter</h3>
+</div>
+
+<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cyberGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0" />
+    </linearGradient>
+    <filter id="neonBlur" x="-20%" y="-20%" width="140%" height="140%">
+   
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="2" y="14" fill="#1e293b" />
+
+  <rect width="250" height="4" y="13" fill="url(#cyberGlow)" filter="url(#neonBlur)" rx="2">
+    <animate attributeName="x" from="-300" to="100%" dur="2.5s" repeatCount="indefinite" />
+  </rect>
+</svg>
+
+
+<p align="center">
+  <img src="screenshot.png" alt="MAB Converter Arayüzü" width="800">
+</p>
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Framework](https://img.shields.io/badge/Framework-WPF%20%7C%20C%23-purple.svg)
-<p align="center">
-  <img src="screenshot.png" alt="MAB Converter Arayüzü" width="800">
-</p>
 
 🌍 **[English Version Below](#english-version)** 🇬🇧
 
@@ -30,7 +64,7 @@ MAB Tech tarafından geliştirilen bu araç, sıfır kalite kaybı (Remux/Stream
 
 Projeyi kaynak kodundan derlemekle uğraşmak istemiyorsanız, doğrudan kurulabilir `.exe` versiyonunu indirebilirsiniz.
 
-1. <a href="https://mabtech.me/Home/ProjectDetail/9" target="_blank">mabtech.me</a> adresine gidin.
+1. <a href="https://mabtech.me/Projects/mab-converter target="_blank">mabtech.me</a> adresine gidin.
 2. `MAB_Converter_Setup_v1.0.exe` dosyasını indirin.
 3. Kurulumu çalıştırın (Tüm bağımlılıklar ve motorlar otomatik olarak kurulacaktır).
 4. Masaüstündeki MAB Converter ikonuna tıklayarak keyfini çıkarın!
@@ -80,7 +114,7 @@ Developed by MAB Tech, this tool stands out with its zero quality loss (Remux/St
 
 If you don't want to deal with compiling from source code, you can directly download the installable `.exe` version.
 
-1. **[Go to the site] <a href="https://mabtech.me/Home/ProjectDetail/9" target="_blank">mabtech.me</a>
+1. **[Go to the site] <a href="https://mabtech.me/Projects/mab-converter" target="_blank">mabtech.me</a>
 2. Download the `MAB_Converter_Setup_v1.0.exe` file.
 3. Run the setup (All dependencies and engines will be installed automatically).
 4. Click the MAB Converter icon on your desktop and enjoy!
@@ -102,6 +136,19 @@ If you want to build and develop the project on your own machine:
 
 ## 📝 License
 This project is licensed under the **MIT License**. For more information, check out the `LICENSE` file.
+
+---
+*Developer:* **[Mertcan Boztoprak (MAB Tech)](https://www.linkedin.com/in/mertcan-boztoprak)**
+
+
+</div>
+<div align="center">
+  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0CED15&height=120&section=footer" width="100%" style="display: block; margin: 0; padding: 0; border: none; margin-bottom: -5px;"/>
+</div>
+</div>
+
 
 ---
 *Developer:* **[Mertcan Boztoprak (MAB Tech)](https://www.linkedin.com/in/mertcan-boztoprak)**
