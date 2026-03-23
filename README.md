@@ -8,29 +8,6 @@
   <h3 style="color: #B0B0B0; margin-top: 0; font-weight: normal;">Ultimate Media Downloader & Converter</h3>
 </div>
 
-<svg width="100%" height="30" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="cyberGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f172a" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00f2fe" />
-      <stop offset="100%" stop-color="#0f172a" stop-opacity="0" />
-    </linearGradient>
-    <filter id="neonBlur" x="-20%" y="-20%" width="140%" height="140%">
-   
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="100%" height="2" y="14" fill="#1e293b" />
-
-  <rect width="250" height="4" y="13" fill="url(#cyberGlow)" filter="url(#neonBlur)" rx="2">
-    <animate attributeName="x" from="-300" to="100%" dur="2.5s" repeatCount="indefinite" />
-  </rect>
-</svg>
 
 
 <p align="center">
